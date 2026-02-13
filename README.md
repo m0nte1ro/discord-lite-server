@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/m0nte1ro/discord-lite?style=flat-square" />
   <img src="https://img.shields.io/github/issues/m0nte1ro/discord-lite?style=flat-square" />
-  <img src="https://img.shields.io/github/license/m0nte1ro/discord-lite?style=flat-square" />
+  <img src="https://img.shields.io/badge/license-BUSL%201.1-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" />
 </p>
 
